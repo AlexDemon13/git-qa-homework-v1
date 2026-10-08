@@ -1,1 +1,1 @@
-# Git QA Homework
+# QA Automation Framework v1
