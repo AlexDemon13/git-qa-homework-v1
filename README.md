@@ -1,1 +1,1 @@
-# Git QA Homework
+# Login API Automation Tests
